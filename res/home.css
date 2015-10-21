@@ -1,0 +1,11 @@
+#home {position: absolute; top: 0px; left: 10px; height: 21px; width: 810px; }
+#home_obj .ff0 {font-family: Times New Roman; }
+#home_obj .ff1 {font-family: Tahoma; }
+#home_obj .ff2 {font-family: Tahoma; }
+#home_obj .fc1 {color: #FFFFFF; }
+#home_obj .fc2 {color: #000000; }
+#home_obj .fs10 {font-size: 13px ; vertical-align: baseline; line-height: 16px ; }
+#home_obj {padding: 0px; }
+#home_Cont {text-align: center; height: 21px; overflow: hidden; }
+#Page {position: relative; height: 360px; }
+
